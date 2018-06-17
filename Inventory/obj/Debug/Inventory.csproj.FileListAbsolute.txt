@@ -1,0 +1,173 @@
+C:\Users\Lerry16\Desktop\Inventory\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\Lerry16\Desktop\Inventory\Inventory\bin\Debug\Inventory.exe
+C:\Users\Lerry16\Desktop\Inventory\Inventory\bin\Debug\Inventory.pdb
+C:\Users\Lerry16\Desktop\Inventory\Inventory\obj\Debug\Inventory.AdminMain.resources
+C:\Users\Lerry16\Desktop\Inventory\Inventory\obj\Debug\Inventory.frmLogin.resources
+C:\Users\Lerry16\Desktop\Inventory\Inventory\obj\Debug\Inventory.frmSfaffs.resources
+C:\Users\Lerry16\Desktop\Inventory\Inventory\obj\Debug\Inventory.frmSplashScreen.resources
+C:\Users\Lerry16\Desktop\Inventory\Inventory\obj\Debug\Inventory.Products.resources
+C:\Users\Lerry16\Desktop\Inventory\Inventory\obj\Debug\Inventory.Properties.Resources.resources
+C:\Users\Lerry16\Desktop\Inventory\Inventory\obj\Debug\Inventory.csproj.GenerateResource.Cache
+C:\Users\Lerry16\Desktop\Inventory\Inventory\obj\Debug\Inventory.exe
+C:\Users\Lerry16\Desktop\Inventory\Inventory\obj\Debug\Inventory.pdb
+C:\Users\Lerry16\Desktop\Inventory\Inventory\obj\Debug\Inventory.frmCashier.resources
+C:\Users\Acer\Desktop\Inventory\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\Acer\Desktop\Inventory\Inventory\obj\Debug\Inventory.exe
+C:\Users\Acer\Desktop\Inventory\Inventory\obj\Debug\Inventory.pdb
+C:\Users\Acer\Desktop\Inventory\Inventory\bin\Debug\Inventory.exe
+C:\Users\Acer\Desktop\Inventory\Inventory\bin\Debug\Inventory.pdb
+C:\Users\Acer\Desktop\Inventory\Inventory\obj\Debug\Inventory.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\Inventory\Inventory\obj\Debug\Inventory.AdminMain.resources
+C:\Users\Acer\Desktop\Inventory\Inventory\obj\Debug\Inventory.frmCashier.resources
+C:\Users\Acer\Desktop\Inventory\Inventory\obj\Debug\Inventory.frmLogin.resources
+C:\Users\Acer\Desktop\Inventory\Inventory\obj\Debug\Inventory.frmSfaffs.resources
+C:\Users\Acer\Desktop\Inventory\Inventory\obj\Debug\Inventory.frmSplashScreen.resources
+C:\Users\Acer\Desktop\Inventory\Inventory\obj\Debug\Inventory.Products.resources
+C:\Users\Acer\Desktop\Inventory\Inventory\obj\Debug\Inventory.Properties.Resources.resources
+C:\Users\Acer\Desktop\Inventory\Inventory\obj\Debug\Inventory.csproj.GenerateResource.Cache
+C:\Users\Lerry16\Desktop\Inventory\Inventory\obj\Debug\Inventory.frmSearProduct.resources
+C:\Users\Lerry16\Desktop\Games\Inventory\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\Lerry16\Desktop\Games\Inventory\Inventory\obj\Debug\Inventory.exe
+C:\Users\Lerry16\Desktop\Games\Inventory\Inventory\obj\Debug\Inventory.pdb
+C:\Users\Lerry16\Desktop\Inventory\Inventory\obj\Debug\Inventory.frmOrder.resources
+C:\Users\Lerry16\Desktop\Inventory\Inventory\obj\Debug\Inventory.frmchoosesupplier.resources
+C:\Users\Lerry16\Desktop\Inventory\Inventory\obj\Debug\Inventory.frmRecieving.resources
+C:\Users\Lerry16\Desktop\Inventory\Inventory\obj\Debug\Inventory.frmSales.resources
+C:\Users\Lerry16\Desktop\Inventory\Inventory\obj\Debug\Inventory.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\Inventory\Inventory\obj\Debug\Inventory.frmchoosesupplier.resources
+C:\Users\Acer\Desktop\Inventory\Inventory\obj\Debug\Inventory.frmOrder.resources
+C:\Users\Acer\Desktop\Inventory\Inventory\obj\Debug\Inventory.frmRecieving.resources
+C:\Users\Acer\Desktop\Inventory\Inventory\obj\Debug\Inventory.frmSales.resources
+C:\Users\Acer\Desktop\Inventory\Inventory\obj\Debug\Inventory.frmSearProduct.resources
+C:\Users\Acer\Desktop\Inventory\Inventory\obj\Debug\Inventory.frmBackOrder.resources
+C:\Users\Acer\Desktop\Inventory\Inventory\obj\Debug\Inventory.frmReORder.resources
+C:\Users\Acer\Desktop\Inventory\Inventory\obj\Debug\Inventory.frmUserArchives.resources
+C:\Users\Acer\Desktop\Inventory\Inventory\obj\Debug\Inventory.frmBarcode.resources
+G:\Files and Documents\Inventory\Inventory\bin\Debug\Inventory.exe.config
+G:\Files and Documents\Inventory\Inventory\obj\Debug\Inventory.exe
+G:\Files and Documents\Inventory\Inventory\obj\Debug\Inventory.pdb
+G:\Files and Documents\Inventory\Inventory\bin\Debug\Inventory.exe
+G:\Files and Documents\Inventory\Inventory\bin\Debug\Inventory.pdb
+G:\Files and Documents\Inventory\Inventory\obj\Debug\Inventory.csprojResolveAssemblyReference.cache
+G:\Files and Documents\Inventory\Inventory\obj\Debug\Inventory.AdminMain.resources
+G:\Files and Documents\Inventory\Inventory\obj\Debug\Inventory.frmBackOrder.resources
+G:\Files and Documents\Inventory\Inventory\obj\Debug\Inventory.frmBarcode.resources
+G:\Files and Documents\Inventory\Inventory\obj\Debug\Inventory.frmCashier.resources
+G:\Files and Documents\Inventory\Inventory\obj\Debug\Inventory.frmchoosesupplier.resources
+G:\Files and Documents\Inventory\Inventory\obj\Debug\Inventory.frmLogin.resources
+G:\Files and Documents\Inventory\Inventory\obj\Debug\Inventory.frmOrder.resources
+G:\Files and Documents\Inventory\Inventory\obj\Debug\Inventory.frmRecieving.resources
+G:\Files and Documents\Inventory\Inventory\obj\Debug\Inventory.frmReORder.resources
+G:\Files and Documents\Inventory\Inventory\obj\Debug\Inventory.frmSales.resources
+G:\Files and Documents\Inventory\Inventory\obj\Debug\Inventory.frmSearProduct.resources
+G:\Files and Documents\Inventory\Inventory\obj\Debug\Inventory.frmSfaffs.resources
+G:\Files and Documents\Inventory\Inventory\obj\Debug\Inventory.frmSplashScreen.resources
+G:\Files and Documents\Inventory\Inventory\obj\Debug\Inventory.frmUserArchives.resources
+G:\Files and Documents\Inventory\Inventory\obj\Debug\Inventory.Products.resources
+G:\Files and Documents\Inventory\Inventory\obj\Debug\Inventory.Properties.Resources.resources
+G:\Files and Documents\Inventory\Inventory\obj\Debug\Inventory.csproj.GenerateResource.Cache
+C:\Users\Username\Desktop\PrivateFiles\Inventory\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\Username\Desktop\PrivateFiles\Inventory\Inventory\obj\Debug\Inventory.exe
+C:\Users\Username\Desktop\PrivateFiles\Inventory\Inventory\obj\Debug\Inventory.pdb
+C:\Users\Username\Desktop\PrivateFiles\Inventory\Inventory\bin\Debug\Inventory.exe
+C:\Users\Username\Desktop\PrivateFiles\Inventory\Inventory\bin\Debug\Inventory.pdb
+C:\Users\Username\Desktop\PrivateFiles\Inventory\Inventory\obj\Debug\Inventory.csprojResolveAssemblyReference.cache
+C:\Users\Username\Desktop\PrivateFiles\Inventory\Inventory\obj\Debug\Inventory.AdminMain.resources
+C:\Users\Username\Desktop\PrivateFiles\Inventory\Inventory\obj\Debug\Inventory.frmBackOrder.resources
+C:\Users\Username\Desktop\PrivateFiles\Inventory\Inventory\obj\Debug\Inventory.frmBarcode.resources
+C:\Users\Username\Desktop\PrivateFiles\Inventory\Inventory\obj\Debug\Inventory.frmCashier.resources
+C:\Users\Username\Desktop\PrivateFiles\Inventory\Inventory\obj\Debug\Inventory.frmchoosesupplier.resources
+C:\Users\Username\Desktop\PrivateFiles\Inventory\Inventory\obj\Debug\Inventory.frmLogin.resources
+C:\Users\Username\Desktop\PrivateFiles\Inventory\Inventory\obj\Debug\Inventory.frmOrder.resources
+C:\Users\Username\Desktop\PrivateFiles\Inventory\Inventory\obj\Debug\Inventory.frmRecieving.resources
+C:\Users\Username\Desktop\PrivateFiles\Inventory\Inventory\obj\Debug\Inventory.frmReORder.resources
+C:\Users\Username\Desktop\PrivateFiles\Inventory\Inventory\obj\Debug\Inventory.frmSales.resources
+C:\Users\Username\Desktop\PrivateFiles\Inventory\Inventory\obj\Debug\Inventory.frmSearProduct.resources
+C:\Users\Username\Desktop\PrivateFiles\Inventory\Inventory\obj\Debug\Inventory.frmSfaffs.resources
+C:\Users\Username\Desktop\PrivateFiles\Inventory\Inventory\obj\Debug\Inventory.frmSplashScreen.resources
+C:\Users\Username\Desktop\PrivateFiles\Inventory\Inventory\obj\Debug\Inventory.frmUserArchives.resources
+C:\Users\Username\Desktop\PrivateFiles\Inventory\Inventory\obj\Debug\Inventory.Products.resources
+C:\Users\Username\Desktop\PrivateFiles\Inventory\Inventory\obj\Debug\Inventory.Properties.Resources.resources
+C:\Users\Username\Desktop\PrivateFiles\Inventory\Inventory\obj\Debug\Inventory.csproj.GenerateResource.Cache
+C:\Users\Username\Desktop\PrivateFiles\Inventory\Inventory\bin\Debug\InventoryDB.accdb
+C:\Users\Username\Desktop\PrivateFiles\Inventory\Inventory\obj\Debug\Inventory.report.resources
+C:\Users\Username\Desktop\PrivateFiles\Inventory\Inventory\obj\Debug\RdlCompile.cache
+C:\Users\Username\Desktop\PrivateFiles\Inventory\Inventory\obj\Debug\RdlCompile.compiled
+C:\Users\user\Desktop\InventorySystem1\Inventory\bin\Debug\InventoryDB.accdb
+C:\Users\user\Desktop\InventorySystem1\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\user\Desktop\InventorySystem1\Inventory\bin\Debug\Inventory.exe
+C:\Users\user\Desktop\InventorySystem1\Inventory\bin\Debug\Inventory.pdb
+C:\Users\user\Desktop\InventorySystem1\Inventory\obj\Debug\Inventory.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\InventorySystem1\Inventory\obj\Debug\Inventory.AdminMain.resources
+C:\Users\user\Desktop\InventorySystem1\Inventory\obj\Debug\Inventory.frmBackOrder.resources
+C:\Users\user\Desktop\InventorySystem1\Inventory\obj\Debug\Inventory.frmBarcode.resources
+C:\Users\user\Desktop\InventorySystem1\Inventory\obj\Debug\Inventory.frmCashier.resources
+C:\Users\user\Desktop\InventorySystem1\Inventory\obj\Debug\Inventory.frmchoosesupplier.resources
+C:\Users\user\Desktop\InventorySystem1\Inventory\obj\Debug\Inventory.frmLogin.resources
+C:\Users\user\Desktop\InventorySystem1\Inventory\obj\Debug\Inventory.frmOrder.resources
+C:\Users\user\Desktop\InventorySystem1\Inventory\obj\Debug\Inventory.frmRecieving.resources
+C:\Users\user\Desktop\InventorySystem1\Inventory\obj\Debug\Inventory.frmReORder.resources
+C:\Users\user\Desktop\InventorySystem1\Inventory\obj\Debug\Inventory.frmSales.resources
+C:\Users\user\Desktop\InventorySystem1\Inventory\obj\Debug\Inventory.frmSearProduct.resources
+C:\Users\user\Desktop\InventorySystem1\Inventory\obj\Debug\Inventory.frmSfaffs.resources
+C:\Users\user\Desktop\InventorySystem1\Inventory\obj\Debug\Inventory.frmSplashScreen.resources
+C:\Users\user\Desktop\InventorySystem1\Inventory\obj\Debug\Inventory.frmUserArchives.resources
+C:\Users\user\Desktop\InventorySystem1\Inventory\obj\Debug\Inventory.Products.resources
+C:\Users\user\Desktop\InventorySystem1\Inventory\obj\Debug\Inventory.Properties.Resources.resources
+C:\Users\user\Desktop\InventorySystem1\Inventory\obj\Debug\Inventory.report.resources
+C:\Users\user\Desktop\InventorySystem1\Inventory\obj\Debug\Inventory.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\InventorySystem1\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\InventorySystem1\Inventory\obj\Debug\Inventory.exe
+C:\Users\user\Desktop\InventorySystem1\Inventory\obj\Debug\Inventory.pdb
+C:\Users\Mark Tagle\Downloads\InventorySystem1\Inventory\obj\Debug\Inventory.csprojResolveAssemblyReference.cache
+C:\Users\Mark Tagle\Downloads\InventorySystem1\Inventory\obj\Debug\Inventory.AdminMain.resources
+C:\Users\Mark Tagle\Downloads\InventorySystem1\Inventory\obj\Debug\Inventory.frmBackOrder.resources
+C:\Users\Mark Tagle\Downloads\InventorySystem1\Inventory\obj\Debug\Inventory.frmBarcode.resources
+C:\Users\Mark Tagle\Downloads\InventorySystem1\Inventory\obj\Debug\Inventory.frmCashier.resources
+C:\Users\Mark Tagle\Downloads\InventorySystem1\Inventory\obj\Debug\Inventory.frmchoosesupplier.resources
+C:\Users\Mark Tagle\Downloads\InventorySystem1\Inventory\obj\Debug\Inventory.frmLogin.resources
+C:\Users\Mark Tagle\Downloads\InventorySystem1\Inventory\obj\Debug\Inventory.frmOrder.resources
+C:\Users\Mark Tagle\Downloads\InventorySystem1\Inventory\obj\Debug\Inventory.frmRecieving.resources
+C:\Users\Mark Tagle\Downloads\InventorySystem1\Inventory\obj\Debug\Inventory.frmReORder.resources
+C:\Users\Mark Tagle\Downloads\InventorySystem1\Inventory\obj\Debug\Inventory.frmSales.resources
+C:\Users\Mark Tagle\Downloads\InventorySystem1\Inventory\obj\Debug\Inventory.frmSearProduct.resources
+C:\Users\Mark Tagle\Downloads\InventorySystem1\Inventory\obj\Debug\Inventory.frmSfaffs.resources
+C:\Users\Mark Tagle\Downloads\InventorySystem1\Inventory\obj\Debug\Inventory.frmSplashScreen.resources
+C:\Users\Mark Tagle\Downloads\InventorySystem1\Inventory\obj\Debug\Inventory.frmUserArchives.resources
+C:\Users\Mark Tagle\Downloads\InventorySystem1\Inventory\obj\Debug\Inventory.Products.resources
+C:\Users\Mark Tagle\Downloads\InventorySystem1\Inventory\obj\Debug\Inventory.Properties.Resources.resources
+C:\Users\Mark Tagle\Downloads\InventorySystem1\Inventory\obj\Debug\Inventory.report.resources
+C:\Users\Mark Tagle\Downloads\InventorySystem1\Inventory\obj\Debug\Inventory.csproj.GenerateResource.Cache
+C:\Users\Mark Tagle\Downloads\InventorySystem1\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Mark Tagle\Downloads\InventorySystem1\Inventory\obj\Debug\Inventory.exe
+C:\Users\Mark Tagle\Downloads\InventorySystem1\Inventory\obj\Debug\Inventory.pdb
+C:\Users\Mark Tagle\Downloads\InventorySystem1\Inventory\bin\Debug\InventoryDB.accdb
+C:\Users\Mark Tagle\Downloads\InventorySystem1\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\Mark Tagle\Downloads\InventorySystem1\Inventory\bin\Debug\Inventory.exe
+C:\Users\Mark Tagle\Downloads\InventorySystem1\Inventory\bin\Debug\Inventory.pdb
+D:\Libraries\Programs\InventorySystem1\Inventory\bin\Debug\InventoryDB.accdb
+D:\Libraries\Programs\InventorySystem1\Inventory\bin\Debug\Inventory.exe.config
+D:\Libraries\Programs\InventorySystem1\Inventory\bin\Debug\Inventory.exe
+D:\Libraries\Programs\InventorySystem1\Inventory\bin\Debug\Inventory.pdb
+D:\Libraries\Programs\InventorySystem1\Inventory\obj\Debug\Inventory.csprojResolveAssemblyReference.cache
+D:\Libraries\Programs\InventorySystem1\Inventory\obj\Debug\Inventory.AdminMain.resources
+D:\Libraries\Programs\InventorySystem1\Inventory\obj\Debug\Inventory.frmBackOrder.resources
+D:\Libraries\Programs\InventorySystem1\Inventory\obj\Debug\Inventory.frmBarcode.resources
+D:\Libraries\Programs\InventorySystem1\Inventory\obj\Debug\Inventory.frmCashier.resources
+D:\Libraries\Programs\InventorySystem1\Inventory\obj\Debug\Inventory.frmchoosesupplier.resources
+D:\Libraries\Programs\InventorySystem1\Inventory\obj\Debug\Inventory.frmLogin.resources
+D:\Libraries\Programs\InventorySystem1\Inventory\obj\Debug\Inventory.frmOrder.resources
+D:\Libraries\Programs\InventorySystem1\Inventory\obj\Debug\Inventory.frmRecieving.resources
+D:\Libraries\Programs\InventorySystem1\Inventory\obj\Debug\Inventory.frmReORder.resources
+D:\Libraries\Programs\InventorySystem1\Inventory\obj\Debug\Inventory.frmSales.resources
+D:\Libraries\Programs\InventorySystem1\Inventory\obj\Debug\Inventory.frmSearProduct.resources
+D:\Libraries\Programs\InventorySystem1\Inventory\obj\Debug\Inventory.frmSfaffs.resources
+D:\Libraries\Programs\InventorySystem1\Inventory\obj\Debug\Inventory.frmSplashScreen.resources
+D:\Libraries\Programs\InventorySystem1\Inventory\obj\Debug\Inventory.frmUserArchives.resources
+D:\Libraries\Programs\InventorySystem1\Inventory\obj\Debug\Inventory.Products.resources
+D:\Libraries\Programs\InventorySystem1\Inventory\obj\Debug\Inventory.Properties.Resources.resources
+D:\Libraries\Programs\InventorySystem1\Inventory\obj\Debug\Inventory.report.resources
+D:\Libraries\Programs\InventorySystem1\Inventory\obj\Debug\Inventory.csproj.GenerateResource.Cache
+D:\Libraries\Programs\InventorySystem1\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+D:\Libraries\Programs\InventorySystem1\Inventory\obj\Debug\Inventory.exe
+D:\Libraries\Programs\InventorySystem1\Inventory\obj\Debug\Inventory.pdb

@@ -1,0 +1,9 @@
+C:\Users\Lerry16\Desktop\Inventory\Inventory\bin\Release\Inventory.exe.config
+C:\Users\Lerry16\Desktop\Inventory\Inventory\bin\Release\Inventory.exe
+C:\Users\Lerry16\Desktop\Inventory\Inventory\bin\Release\Inventory.pdb
+C:\Users\Lerry16\Desktop\Inventory\Inventory\bin\Release\Bunifu_UI_v1.4.dll
+C:\Users\Lerry16\Desktop\Inventory\Inventory\obj\Release\Inventory.Form1.resources
+C:\Users\Lerry16\Desktop\Inventory\Inventory\obj\Release\Inventory.Properties.Resources.resources
+C:\Users\Lerry16\Desktop\Inventory\Inventory\obj\Release\Inventory.csproj.GenerateResource.Cache
+C:\Users\Lerry16\Desktop\Inventory\Inventory\obj\Release\Inventory.exe
+C:\Users\Lerry16\Desktop\Inventory\Inventory\obj\Release\Inventory.pdb
